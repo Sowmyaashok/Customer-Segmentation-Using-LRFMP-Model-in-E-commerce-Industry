@@ -1,6 +1,6 @@
 # Master thesis - Customer segmentation using LRMFP model in e-commerce industry
 
-Participants : Sowmya Ashok Kumar. Lipika Chakravorty
+Participants : Sowmya Ashok Kumar. Lipika Chakravarti
 
 Supervised By : Muhammad Afzaal, PHD, Stockholm University
 
