@@ -16,13 +16,9 @@ The research focuses on implementing customer segmentation using the LRFMP model
  
  ![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/bbb5735f-8768-4bab-b8af-e36e95ee7351)
 
- ![alt text](Clustering Results for H&M Dataset.JPG)
+![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/3455df37-d6fd-4ffb-936b-2c48b35766d7)
+
  
- ![alt text](Clustering Results for UK Dataset.JPG)
- 
- ![alt text](Customer Profiling for H&M Dataset.JPG)
- 
- ![alt text](Clustering Results for H&M Dataset.JPG)
  
 
 
