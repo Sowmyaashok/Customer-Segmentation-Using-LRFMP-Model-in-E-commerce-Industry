@@ -15,6 +15,9 @@ The research focuses on implementing customer segmentation using the LRFMP model
  ![alt text](Capture.PNG)
  
  ![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/bbb5735f-8768-4bab-b8af-e36e95ee7351)
+ 
+ ![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/6099b90a-c1e7-4208-8fc7-27ccfd2fd128)
+
 
 ![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/3455df37-d6fd-4ffb-936b-2c48b35766d7)
 
