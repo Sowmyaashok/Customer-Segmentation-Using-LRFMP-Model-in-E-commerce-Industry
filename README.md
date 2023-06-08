@@ -17,7 +17,7 @@ The research focuses on implementing customer segmentation using the LRFMP model
  
  ![alt text](Clustering Results for UK Dataset.JPG)
  
- ![alt text](Clustering Results for H&M Dataset.JPG)
+ ![alt text](Customer Profiling for H&M Dataset.JPG)
  
  ![alt text](Clustering Results for H&M Dataset.JPG)
  
