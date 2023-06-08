@@ -24,6 +24,7 @@ Based on the customer segmentation results summarized in the table below, it is 
  
  ![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/6099b90a-c1e7-4208-8fc7-27ccfd2fd128)
  
+ 
 **UK Online Retail Datset**
 
 Based on the customer segmentation results summarized in the table below, it is evident that RM model emerged as the most effective model showing the best score which is a high SI score and a low DB score. These findings highlight the superiority of the RM model in accurately segmenting the customers. K-means and agglomerative clusterimg exhibits good performance.
