@@ -13,6 +13,9 @@ The research focuses on implementing customer segmentation using the LRFMP model
  HM dataset: https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv
  
  ![alt text](Capture.PNG)
+ 
+ ![image](https://github.com/Sowmyaashok/Customer-Segmentation-Using-LRFMP-Model-in-E-commerce-Industry/assets/87700471/bbb5735f-8768-4bab-b8af-e36e95ee7351)
+
  ![alt text](Clustering Results for H&M Dataset.JPG)
  
  ![alt text](Clustering Results for UK Dataset.JPG)
